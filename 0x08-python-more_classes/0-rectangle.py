@@ -1,13 +1,10 @@
 #!/usr/bin/python3
 """
-Module 0-rectangle
-Contains class Rectangle
-Empty class
+This is a Rectangle class.
 """
 
-
-class Rectangle():
+class Rectangle:
     """
-    Defines empty class rectangle
+    Create an empty Rectangle Object.
     """
     pass
