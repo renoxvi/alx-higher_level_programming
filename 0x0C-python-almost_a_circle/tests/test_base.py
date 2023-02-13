@@ -63,7 +63,7 @@ class TestBase(unittest.TestCase):
 
     def test_id(self):
         """
-        Test check for id 
+        Test check for id
         """
         Base._Base__nb_objects = 0
         b1 = Base()
